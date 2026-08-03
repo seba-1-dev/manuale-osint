@@ -4,7 +4,7 @@ Guida pratica a strumenti, tecniche e metodologie per l'intelligence da fonti ap
 
 Perché esiste
 
-Negli ultimi anni ho studiato OSINT e investigazione digitale per passione, accumulando appunti, bozze e note sparse su strumenti, tecniche e metodologie. A un certo punto ho sentito il bisogno di mettere ordine in tutto questo materiale, organizzarlo in modo coerente e trasformarlo in qualcosa di consultabile.
+Negli ultimi anni ho studiato e praticato OSINT e investigazione digitale, accumulando appunti, bozze e note sparse su strumenti, tecniche e metodologie. A un certo punto ho sentito il bisogno di mettere ordine in tutto questo materiale, organizzarlo in modo coerente e trasformarlo in qualcosa di consultabile.
 
 È nato così questo manuale: una raccolta personale di conoscenze maturate nel tempo, messa insieme e condivisa a uso accademico e divulgativo, nella speranza che possa essere utile anche a chi vuole avvicinarsi a questo mondo.
 
