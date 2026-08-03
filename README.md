@@ -10,7 +10,7 @@ Negli ultimi anni ho studiato OSINT e investigazione digitale per passione, accu
 
 Download
 
-📄 Scarica il manuale in PDF
+📄 Scarica il manuale in PDF: https://raw.githubusercontent.com/seba-1-dev/manuale-osint/main/Manuale%20Investigazioni%20Digitali%20e%20OSINT.pdf
 
 Autore
 
