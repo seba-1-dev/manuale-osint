@@ -47,7 +47,7 @@ A practical guide to tools, techniques, and methodologies for Open Source Intell
 
 Why this exists
 
-For a few years now, I've been studying and practicing OSINT and digital investigation. Over time, I had accumulated scattered notes, drafts, and fragments on tools, techniques, and methodologies — too many to keep track of, too disorganized to be truly useful.
+For the past few years, I have studied and practiced OSINT and digital investigation. Over time, I had accumulated scattered notes, drafts, and fragments on tools, techniques, and methodologies — too many to keep track of, too disorganized to be truly useful.
 
 I decided to put things in order: gather everything into a single, organized, verified, and easy-to-consult manual, and share it for academic and educational purposes, hoping it can be useful to others approaching this field too.
 
